@@ -1,0 +1,31 @@
+========================================
+     HOTEL ROOM BOOKING SYSTEM REPORT
+========================================
+
+Booking 1:
+Guest Name     : Ama Mensah
+Phone Number   : 0240000000
+Room Type      : Double
+Room Number    : 205
+Nights Booked  : 3
+Room Rate      : GHS 250.00
+Total Cost     : GHS 750.00
+Payment Status : Paid
+Booking Status : Confirmed Booking
+------------------------------------
+Booking 2:
+Guest Name     : Kojo Addo
+Phone Number   : 0551234567
+Room Type      : Single
+Room Number    : 108
+Nights Booked  : 2
+Room Rate      : GHS 150.00
+Total Cost     : GHS 300.00
+Payment Status : Not Paid
+Booking Status : Pending Payment
+------------------------------------
+
+========================================
+Confirmed Bookings: 1
+Pending Bookings  : 1
+========================================
